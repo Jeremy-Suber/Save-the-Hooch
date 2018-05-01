@@ -1,0 +1,9 @@
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\bin\SaveTheHooch.dll.config
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\bin\SaveTheHooch.dll
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\bin\SaveTheHooch.pdb
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\obj\Debug\SaveTheHooch.csproj.CoreCompileInputs.cache
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\obj\Debug\SaveTheHooch.dll
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\obj\Debug\SaveTheHooch.pdb
+C:\Users\Lance\source\repos\SaveTheHooch\SaveTheHooch\obj\Debug\SaveTheHooch.csprojResolveAssemblyReference.cache
